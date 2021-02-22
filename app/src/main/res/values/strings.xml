@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stonce.LottoGenerator</string>
+    <string name="enterHint">Enter number</string>
+</resources>
